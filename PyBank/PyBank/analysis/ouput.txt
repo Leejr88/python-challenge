@@ -1,9 +1,0 @@
-Financial Analysis
-----------------------
-total months : 86
-total : 22564198
-maximum change : 1862002
-max month : Aug-16
-average change : -8311.105882352942
-minimum change : -1825558
- min month : Feb-14
